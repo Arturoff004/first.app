@@ -22,3 +22,4 @@ Route::get('/basket/{id}', function($id){
 });
 // Route::get('/', [PostController::class, 'getAll'])->name('home');
 // Aybergen Esbergenov
+// Aymurat Esbergenov
